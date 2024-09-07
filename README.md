@@ -5,6 +5,6 @@ It was part of a bigger project at IIT-Guwahati.
 
 It was fun learning about different libraries and the amazing models that people have already built, and it's out there for free.
 <br>
-<h1> Author - Subharthi Samanta </h1>
-<br>
-Summer Internship Project at IITG 
+<h2> Author - Subharthi Samanta </h2>
+<be>
+<h3>Summer Internship Project at IITG</h3>
